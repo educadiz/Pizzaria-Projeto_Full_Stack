@@ -1,5 +1,10 @@
 # README
 
+### English Description
+Fullstack system for managing a pizzeria with complete CRUD operations for clients, products, and orders. Features a Node.js + Express backend with SQLite3 database, ViaCEP API integration, and EJS frontend styled with Materialize CSS.
+
+---
+
 ## 🍕 Pizzaria CRUD App
 
 A aplicação simula o funcionamento básico de um sistema para uma pizzaria, permitindo o gerenciamento de clientes, produtos e pedidos por meio de operações CRUD.
@@ -108,12 +113,10 @@ A aplicação é dividida entre cliente e servidor:
 
 ---
 
-## 👥 Participantes do Projeto
+## 👥 Criador do projeto
 
 - **Eduardo Cadiz** - eduardo.cadiz@faculdadenovaroma.com.br
-- **Leonardo Andrade** - leonardo.lima@novaroma.edu.br
-- **Kaio** - kaioguilherme649@gmail.com
-
+- 
 ---
 
 ## 🚀 Como Rodar o Projeto
@@ -138,5 +141,3 @@ A aplicação é dividida entre cliente e servidor:
 Para mais informações, sugestões ou contribuições, entre em contato com os participantes do projeto através dos e-mails fornecidos acima.
 
 ---
-
-Esta versão do README está mais estruturada, com ícones para melhor visualização, seções bem definidas e informações mais organizadas. Também adicionei instruções mais detalhadas de instalação e configuração, além de melhorar a apresentação da estrutura do banco.
